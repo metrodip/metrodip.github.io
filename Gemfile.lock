@@ -6,6 +6,9 @@ GEM
     colorator (1.1.0)
     ffi (1.10.0)
     forwardable-extended (2.6.0)
+    garth-jekyll-theme (1.0.2)
+      jekyll (~> 3.6)
+      jekyll-paginate (~> 1.1)
     jekyll (3.6.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
@@ -17,6 +20,7 @@ GEM
       pathutil (~> 0.9)
       rouge (>= 1.7, < 3)
       safe_yaml (~> 1.0)
+    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (1.5.1)
@@ -47,7 +51,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  garth-jekyll-theme
   jekyll (~> 3.6.3)
 
 BUNDLED WITH
-   1.16.2
+   1.16.6
