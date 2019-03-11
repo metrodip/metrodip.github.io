@@ -71,3 +71,5 @@ description: "I dip. You dip. We dip." # Site description and default descriptio
 url: "https://www.metrodip.com" # Site url
 baseurl: ""
 lang: en-US
+
+coolmoves_list_url: http://eepurl.com/gi39TX
