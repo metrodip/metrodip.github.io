@@ -1,17 +1,13 @@
 <nav class="nav">
   <ul class="list list--nav">
-    {% assign sorted_pages = site.pages | sort: "order" %}
-    {% for item in sorted_pages %}
-      {% unless item.title == false or item.url contains "/page" or item.url contains "/404.html" or item.url contains "/feed." %}
-        <li class="item  item--nav{% if item.url == page.url %}  item--current{% endif %}">
-          {% if item.collectionpage %}
-      			{% assign collectiondata = site.collections | where: "label", item.collectionpage | first %}
-      			<a href="{{ site.baseurl }}{{ item.url }}">{{ collectiondata.title }}</a>
-      		{% else %}
-            <a href="{{ site.baseurl }}{{ item.url }}">{{ item.title }}</a>
-      		{% endif %}
-        </li>
-      {% endunless %}
-    {% endfor %}
+    <li class="item  item--nav{% if page.url == '/' %}  item--current{% endif %}">
+      <a href="/">Metrodip</a>
+    </li>
+    <li class="item  item--nav{% if page.url == '/merch/' %}  item--current{% endif %}">
+      <a href="/merch/">Merch</a>
+    </li>
+    <li class="item  item--nav{% if page.url == '/coolmoves/' %}  item--current{% endif %}">
+      <a href="/coolmoves/">Coolmoves</a>
+    </li>
   </ul>
 </nav>

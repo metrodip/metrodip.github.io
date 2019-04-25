@@ -1,7 +1,6 @@
 ---
+title: "Bothe-Napa SP: April 19-20"
 ---
-# Bothe-Napa SP: April 19-20
-
 It’s finally here: the first camp of the 2019 season!
 
 Here are the details for this weekend’s upcoming camp at Bothe-Napa Valley State Park.
