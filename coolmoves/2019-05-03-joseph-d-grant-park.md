@@ -48,7 +48,7 @@ Ivan
 * We got a citronella anti-mosquito candle, and it was OK. I’m still not sold on how well it works.
 * Bibo really needs some booties for our next camp. Poor guy got so much grass and nature in his fur. What a city boy!
 
-~~Bothe-Napa Valley SP~~ COOLED
-~~Joseph D Grant Park~~ COOLED
+* ~~Bothe-Napa Valley SP~~ COOLED
+* ~~Joseph D Grant Park~~ COOLED
 
 Ivan
