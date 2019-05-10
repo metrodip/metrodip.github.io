@@ -1,5 +1,5 @@
 ---
-title: "Bothe-Napa SP: April 19-20"
+title: "Bothe-Napa SP: April 19-20, 2019"
 ---
 It’s finally here: the first camp of the 2019 season!
 
