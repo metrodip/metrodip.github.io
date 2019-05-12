@@ -1,5 +1,6 @@
 ---
 title: "Mt. Diablo: May 5-6, 2018 [COOLED!]"
+layout: coolmoves-post
 ---
 Camp Coolmoves had another successful outing this past weekend. We took on the Juniper Campground at Mt. Diablo with Jessie and Matt who learned us that we need to get a hatchet (amongst other things).
 
@@ -21,5 +22,3 @@ Camp Coolmoves had another successful outing this past weekend. We took on the J
 A great trip!
 
 ~~Mt. Diablo~~ COOLED!
-
-![Epic Bibo on Mt. Diablo](mt-diablo-bibo.png)

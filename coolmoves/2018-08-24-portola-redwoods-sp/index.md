@@ -1,5 +1,6 @@
 ---
 title: "Portola Redwoods SP: August 24-25, 2018 [COOLED!]"
+layout: coolmoves-post
 ---
 Camp Coolmoves had another great camp! We took on Portola Redwood State Park with Ali, Ivan, Sir Bibo, our furry Shiba Inu friend Kula, and our new addition: our Subaru Crosstrek, affectionately and appropriately named Bluemoves!
 
@@ -26,5 +27,3 @@ Another great trip!
 * ~~May 5-6: Mt. Diablo~~ COOLED!
 * ~~June 29-July 1: Montana de Oro~~ COOLED!
 * ~~August 24-25: Portola Redwoods~~ COOLED!
-
-![Portola Redwoods Sunset](portola-redwoods-sunset.png)
