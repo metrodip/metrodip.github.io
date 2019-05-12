@@ -1,5 +1,6 @@
 ---
 title: "Bothe-Napa SP: April 19-20, 2019"
+layout: coolmoves-post
 ---
 It’s finally here: the first camp of the 2019 season!
 
@@ -55,14 +56,3 @@ Camp Coolmoves had another successful outing this past weekend. We took on one n
 ~~Bothe-Napa Valley SP~~ COOLED
 
 Ivan
-
-
-![Ivan at table](IMG_1694.jpg)
-![Bibo with dog light](IMG_1701.jpg)
-![Happy Ali](IMG_1704.jpg)
-![Fire!](IMG_1706.jpg)
-![Big Tent at night](IMG_1712.jpg)
-![Kula and stake](IMG_1721.jpg)
-![Cooking stove](IMG_1725.jpg)
-![Ali and breakfast](IMG_1727.jpg)
-![Bibo, the Pendledog](IMG_1750.jpg)
