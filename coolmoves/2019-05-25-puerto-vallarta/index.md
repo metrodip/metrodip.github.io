@@ -14,9 +14,9 @@ Hola! We're back from our first ever Coolmoves International trip! Here's all th
 * Our resort was across the street from a Food Park that was essentially a food truck park. We would go every morning to get a decent cup of coffee, and we had some fantastic steak and aguas chiles there.
 * Having a diet that mainly consisted of tacos, chips, and seafood, I found it refreshing to get some fruit from a stand on the beach. The nice woman would cut up a huge platter of mango, pineapple, papaya, watermelon, and melon in front of me for 70 pesos.
 * Restaurants we loved:
-	* El Brujo: Camarones Dragones!
+	* [El Brujo](https://www.tripadvisor.com/Restaurant_Review-g150793-d805260-Reviews-El_brujo_Vallarta-Puerto_Vallarta.html): Camarones Dragones!
 	* Cafe de Artistes: fancy expensive restaurant where you feel like you’re having a meal in the jungle
-	* Mi Cafe
+	* [Mi Cafe](https://www.tripadvisor.com/Restaurant_Review-g150793-d2093561-Reviews-Mi_Cafe-Puerto_Vallarta.html)
 	* A little taco truck on the side of the road near our resort called: “Fast Truck”
 
 ##### Things Learned
