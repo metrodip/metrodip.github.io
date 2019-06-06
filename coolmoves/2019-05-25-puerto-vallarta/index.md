@@ -7,7 +7,7 @@ Hola! We're back from our first ever Coolmoves International trip! Here's all th
 ##### The Goodness
 
 * We were so glad that Samantha could join us for our first Coolmoves International outing!
-* We scored a sweet top floor at the [Villa del Palmer](https://vallarta.villadelpalmar.com/) suite with an outdoor… bathtub?
+* We scored a sweet top floor at the [Villa del Palmar](https://vallarta.villadelpalmar.com/) suite with an outdoor… bathtub?
 * Plenty of sun time on the beach! Our resort was right against the water, so we got easy access to the waves and sand and the ocean breeze. We asked: [How does sunblock work?](https://ivanthinking.net/thoughts/sunblock/)
 * Street art. Great to see along the drive down to the old town and in the town itself. I think we only scratched the surface of the art scene there, but I got the feeling there was a community happening.
 * Boat tour and horse riding to secluded waterfall. It was great to see the view of PV from the water and get a sense of the recent growth of the city. Seeing the small town of Quimixto and riding up with new horse friends to a waterfall: what a magical experience! Plus, yummy foods too!
