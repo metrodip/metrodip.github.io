@@ -65,6 +65,7 @@ Last weekend, Camp Coolmoves had our last amazing outing of the season at Bodega
 * I was in charge of toasting the buns, and I was able use my Toasting Association of America approved technique of toasting above the fire pit. Toast Masters. 🔥
 
 
+#### 2019
 * ~~Bothe-Napa Valley SP~~ COOLED
 * ~~Joseph D Grant Park~~ COOLED
 * ~~Bodega Dunes~~ COOLED
