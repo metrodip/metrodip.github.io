@@ -1,6 +1,6 @@
 ---
 title: "Sedona, Arizona"
-layout: page
+layout: page-with-photos
 ---
 See the layers of rocks and mountains moving in parallax with each other.    
 See the varying colors of layers on the rocks.  

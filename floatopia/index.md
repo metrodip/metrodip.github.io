@@ -1,6 +1,6 @@
 ---
 title: "Floatopia"
-layout: page
+layout: page-with-photos
 ---
 
 Our Floatopian ideals:
