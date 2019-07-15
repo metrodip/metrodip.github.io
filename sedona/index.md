@@ -1,5 +1,5 @@
 ---
-title: "Sedona"
+title: "Sedona, Arizona"
 layout: page
 ---
 See the layers of rocks and mountains moving in parallax with each other.    
