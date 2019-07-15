@@ -12,6 +12,11 @@ layout: default
 
     {{ content }}
 
+    {% for image in site.static_files %}
+      {% if image.path contains page.dir %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+      {% endif %}
+    {% endfor %}
   </article>
 
 </main>
