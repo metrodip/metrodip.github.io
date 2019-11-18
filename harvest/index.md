@@ -2,6 +2,9 @@
 title: "Harvest / Ali and Ivan Wedding, Oct 11, 2019"
 layout: page-with-photos
 ---
+We are so incredibly grateful for everyone who was a part of our wedding day:
+our harvest!
+
 ## Vendors/Venue
 
 * Venue: [Riggers Wine Loft](https://www.riggersloftwine.com/)
