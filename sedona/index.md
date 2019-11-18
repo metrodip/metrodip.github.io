@@ -35,3 +35,7 @@ See yourself from a distance, lost in the grandiosity of the scene.
 * [Mariposa](https://www.mariposasedona.com/). Spectacular views!
 * [The Hudson](https://thehudsonsedona.com/)
 * [Famous Pizza](https://www.azfamouspizza.com/)
+
+## Accomodations
+
+We love going to the [Sedona Summit Resort](https://www.diamondresortsandhotels.com/Resorts/Sedona-Summit). Your room has a small kitchen, they've got great views from the hot tub, and there are BBQ grills you can use for grilling up a storm in the evenings!
