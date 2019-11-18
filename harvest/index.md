@@ -17,7 +17,7 @@ our harvest!
 * Photo van: [Photovanic](https://www.photovanic.com/)
 * Wedding Banner: Liz Merolla/[Sweet Tarnation](https://sweettarnation.com/)
 * Photography: [Carmen Holt Photography](http://www.carmenholt.com/)
-* Make-up and hair: [Chelsea Kay Beauty](https://www.chelseakaybeauty.com/)
+* Make-up and hair: [Chels Kay Beauty](https://www.instagram.com/chelskay.beautyco/)
 * DJ/Music: [Golden Bell Music](https://goldenbellmusic.com/)
 
 ## Media
