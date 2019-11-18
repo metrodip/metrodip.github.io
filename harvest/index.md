@@ -19,5 +19,5 @@ layout: page-with-photos
 
 ## Videos/Photos
 * [To Ali & Ivan's Video](https://www.dropbox.com/s/trp1428dawxugjt/To%20Ali%20%26%20Ivan%27s%20Wedding.mp4?dl=0)
-* [Thanks Video]()
+* [Thanks Video](https://www.dropbox.com/s/oajwgi31owtfncf/Harvest%20Thanks.mp4?dl=0)
 * [Photo Booth Photos](https://drive.google.com/drive/folders/1plRBbqKPJbTNHneqJsZfbk6afDsi8c1a?usp=sharing)
