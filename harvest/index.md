@@ -16,7 +16,7 @@ our harvest!
 ## Vendors/Venue
 
 * Venue: [Riggers Wine Loft](https://www.riggersloftwine.com/)
-* Craftacular venue: [Heron Arts](https://heronarts.com/)
+* Craftacular venue: Mark Slee/[Heron Arts](https://heronarts.com/)
 * Coordinator: [Two Perfect Events](https://twoperfectevents.com/)
 * Officiant: [Finding Bliss](https://www.finding-bliss.com/)
 * Pork buns: [Chairman Bao](https://www.hailthechairman.com/)
