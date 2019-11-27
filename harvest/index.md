@@ -27,4 +27,4 @@ our harvest!
 * Photography: [Carmen Holt Photography](http://www.carmenholt.com/)
 * Make-up and hair: [Chels Kay Beauty](https://www.instagram.com/chelskay.beautyco/)
 * DJ/Music: [Golden Bell Music](https://goldenbellmusic.com/)
-* Rings: [Seelenbacher Jewlers](https://www.seelenbacherjewelers.com)
+* Rings: [Seelenbacher Jewelers](https://www.seelenbacherjewelers.com)
