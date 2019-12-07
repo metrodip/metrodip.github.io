@@ -4,4 +4,4 @@ layout: page
 ---
 Testing
 
-{% include previous.md %}
+{% include_relative previous.md %}
