@@ -1,6 +1,6 @@
 ---
 title: "Camp Coolmoves"
-layout: page
+layout: coolmoves-home
 ---
 Testing
 
