@@ -7,7 +7,7 @@ layout: coolmoves-home
 
 ***
 
-We're getting geared up for the 2020 season. Look forward to updates soon!
+We're getting geared up for the 2020 season. Look forward for updates soon!
 
 Ivan, Ali, and Bibo
 
