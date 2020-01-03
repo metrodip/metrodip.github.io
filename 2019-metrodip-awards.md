@@ -24,6 +24,11 @@ Runners up: There are other beers?
 
 Runners up: Sibley, Coxcomb
 
+## 2019 App of the Year
+[**Little Countdown**](https://littlecountdown.com)
+
+Runner up: [Little Memory](https://thelittlememory.com)
+
 ## 2019 Meal of the Year
 **El Bruja** and **Phuket hotel food**
 
