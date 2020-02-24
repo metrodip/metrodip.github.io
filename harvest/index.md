@@ -3,19 +3,20 @@ title: "Harvest / Ali and Ivan Wedding, Oct 11, 2019"
 layout: page
 ---
 
-![At the altar](ali_ivan_sneak_peek-016.jpg)
+[![At the altar](ali_ivan_sneak_peek-016.jpg)](https://www.dropbox.com/sh/w8p41swmygbbihn/AADhlXiuOLSFZvxzLOt9zKOya?dl=0)
 
 We are so incredibly grateful for everyone who was a part of our wedding day:
 our harvest!
 
 ## Media
 * [Official Wedding Photos](https://www.dropbox.com/sh/w8p41swmygbbihn/AADhlXiuOLSFZvxzLOt9zKOya?dl=0)
+* [Making Of/Thanks Video](https://www.dropbox.com/s/u3zndcnc9hpey4w/Harvest%20Thanks.mp4?dl=0): a behind the scenes view of the making of the wedding as well as some goodies from the post-wedding and honeymoon.
+
 * [Photo Booth Photos](https://drive.google.com/drive/folders/1plRBbqKPJbTNHneqJsZfbk6afDsi8c1a?usp=sharing)
 * #AdventuresOfAliAndIvan
     * [Instagram](https://www.instagram.com/explore/tags/AdventuresOfAliAndIvan/)
     * [Facebook](https://www.facebook.com/hashtag/adventuresofaliandivan)
 * [To Ali & Ivan's Video](https://www.dropbox.com/s/trp1428dawxugjt/To%20Ali%20%26%20Ivan%27s%20Wedding.mp4?dl=0): a little video we sent to guests before the wedding to help folks know that they're not driving their doom and also doubled as a reminder for the upcoming big day. No stop signs were illegally run in the making of this video.
-* [Thanks Video](https://www.dropbox.com/s/u3zndcnc9hpey4w/Harvest%20Thanks.mp4?dl=0): a behind the scenes view of the making of the wedding as well as some goodies from the post-wedding and honeymoon.
 
 ## Vendors/Venue
 
