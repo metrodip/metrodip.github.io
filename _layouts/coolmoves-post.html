@@ -13,7 +13,9 @@ layout: default
     {{ content }}
 
     {% for image in site.static_files %}
-        {% if image.path contains page.dir %}
+        {% assign filename = image.path %}
+        {% assign extension = image.path | split:"." | last | downcase %}
+        {% if filename contains page.dir and extension == "jpg" %}
             <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
         {% endif %}
     {% endfor %}
