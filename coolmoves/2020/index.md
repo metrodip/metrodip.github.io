@@ -14,10 +14,7 @@ We’ve picked some new locations as well as we will visit an old and tall favor
 We will send out reminders for each cooling, but this overview should let you mark your calendars and gird your loins. Get read to ford the river with Camp COOLMOVES in 2020.
 
 ### 2020 Season Trips
-* April 17-19: [Joseph D Grant](2020-04-17-joseph-d-grant)
-* May 1-2: Stillwater Cove
-* June 12-14: Pinnacles Campground
-* August 14-15: Mt. Diablo
+{% include_relative camps.md %}
 
 Let us know if you’d like to [join us]({{site.coolmoves_list_url}}) for any of these trips!
 

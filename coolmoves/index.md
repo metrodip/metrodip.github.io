@@ -7,9 +7,8 @@ layout: coolmoves-home
 
 ***
 
-We're getting geared up for the 2020 season. Look forward for updates soon!
-
-Ivan, Ali, and Bibo
+* [2020 Season](2020)
+  {% include_relative 2020/camps.md %}
 
 ***
 
