@@ -18,5 +18,5 @@ We will send out reminders for each cooling, but this overview should let you ma
 
 Let us know if you’d like to [join us]({{site.coolmoves_list_url}}) for any of these trips!
 
-Ivan, Ali, and Bibo
+Ivan, Ali, and Bibo  
 Feb 25, 2020
