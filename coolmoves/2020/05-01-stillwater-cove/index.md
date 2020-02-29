@@ -9,6 +9,7 @@ layout: coolmoves-post
 * Checkin: 2pm
 * Checkout: 12pm
 
-##### Attendees
+##### Attendees (We're FULL!)
 * Ali, Ivan, Bibo
-* [Join us! There’s still space!]({{site.coolmoves_list_url}})
+* Jessie, Matt, and Quinn
+* Samantha
