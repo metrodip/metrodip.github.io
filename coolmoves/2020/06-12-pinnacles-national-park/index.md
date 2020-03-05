@@ -11,4 +11,5 @@ layout: coolmoves-post
 
 ##### Attendees
 * Ali, Ivan, Bibo
+* Liz and Rob
 * [Join us! There’s still space!]({{site.coolmoves_list_url}})
