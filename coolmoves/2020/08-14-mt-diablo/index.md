@@ -12,4 +12,4 @@ layout: coolmoves-post
 
 ##### Attendees
 * Ali, Ivan, Bibo
-* [Join us! There’s still space!]({{site.coolmoves_list_url}})
+* [Join us! There’s still space!](https://forms.gle/hrRJKsv8Ty19W7DXA)
