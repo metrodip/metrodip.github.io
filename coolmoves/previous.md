@@ -7,4 +7,5 @@
     * [Bothe-Napa SP: April 19, 2019](2019-04-19-bothe-napa-sp/)
 * 2018 Season
     * [Portola Redwoods SP: August 24-25, 2018](2018-08-24-portola-redwoods-sp/)
+    * [Montaña de Oro: June 29-July 1, 2018](2018-06-27-montana-de-oro/)
     * [Mt. Diablo: May 5-6, 2018](2018-05-05-mt-diablo/)
