@@ -9,7 +9,7 @@ layout: coolmoves-post
 * Checkin: 1pm
 * Checkout: 11am
 
-##### Attendees
+##### Attendees (We're FULL!)
 * Ali, Ivan, Bibo
 * Liz and Rob
-* [Join us! There’s still space!]({{site.coolmoves_list_url}})
+* Jenn
