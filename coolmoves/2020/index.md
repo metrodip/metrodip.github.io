@@ -5,7 +5,7 @@ layout: coolmoves-post
 
 Dear Cool Movers!
 
-Behold! The time has come for the selection and notification of the 2020 Season of COOLMOVES Campsites! As always, we invite you to [cool with us]({{site.coolmoves_list_url}}).
+Behold! The time has come for the selection and notification of the 2020 Season of COOLMOVES Campsites! As always, we invite you to [cool with us](https://forms.gle/hrRJKsv8Ty19W7DXA).
 
 Please let us know in advance if you would like to cool as space is generally limited.
 
@@ -16,7 +16,7 @@ We will send out reminders for each cooling, but this overview should let you ma
 ### 2020 Season Trips
 {% include_relative camps.md %}
 
-Let us know if you’d like to [join us]({{site.coolmoves_list_url}}) for any of these trips!
+Let us know if you’d like to [join us](https://forms.gle/hrRJKsv8Ty19W7DXA) for any of these trips!
 
 Ivan, Ali, and Bibo  
 Feb 25, 2020
