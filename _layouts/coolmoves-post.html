@@ -16,7 +16,7 @@ layout: default
         {% assign filename = image.path %}
         {% assign extension = image.path | split:"." | last | downcase %}
         {% if filename contains page.dir and extension == "jpg" %}
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+            <a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
         {% endif %}
     {% endfor %}
   </article>
