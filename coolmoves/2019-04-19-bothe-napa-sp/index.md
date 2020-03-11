@@ -2,6 +2,31 @@
 title: "Bothe-Napa SP: April 19-20, 2019"
 layout: coolmoves-post
 ---
+
+## Recap - COOLED!
+
+Camp Coolmoves had another successful outing this past weekend. We took on one night at Bothe-Napa Valley State Park with Kula, who gave us a new use for our tent stakes.
+
+##### The Goodness
+* Campsites were very isolated from each other, and we never felt like we had to be quiet at night.
+* The facilities were super clean and nice, with toilet paper, running water, and there was even a shower.
+* Ali gave me a [Black Diamond Moji Color light](https://www.blackdiamondequipment.com/en_US/moji_color-BD620717WHITALL1.html#cgid=lighting&start=13) as a gift, and this was the first chance for us to use it in the wild. It was bright, with a great color, and we could easily hang it up inside our new Big Tent.
+* The weather was perfect: not too cold at night, Ali was able to sleep great, and it wasn’t difficult to get up in the morning.
+* Ali had the great idea to get a string of lights. They’re lightweight and bright. Great on the table to help keep things well lit!
+* Watermelon. Yum. 🍉
+
+##### Things Learned
+* We tried stopping by Calistoga on our way out at a winery called Tank Garage; they were packed! So we had to end up skipping that adventure.
+* So many mosquitoes! I arrived around 6pm, and about 30 minutes later, when Ali arrived, we were in Zika Town. We had a spray, but that seemed to last about 10 minutes until we’d need to re-spray. It made it extremely difficult to get the camp setup. Once we got the fire started, I think we were able to start smoking them away. So buggy! Need a better solution for this next time.
+* Kula is quite the suburban gal who likes paved roads and hates the outdoors.
+* We forgot to bring plates, but we were able to eat out of some aluminum trays we had. Oops.
+
+~~Bothe-Napa Valley SP~~ COOLED
+
+Ivan
+
+---
+
 It’s finally here: the first camp of the 2019 season!
 
 Here are the details for this weekend’s upcoming camp at Bothe-Napa Valley State Park.
@@ -30,29 +55,5 @@ Here are the details for this weekend’s upcoming camp at Bothe-Napa Valley Sta
 * after checkout: hiking? head home
 
 Coolmoves!
-
-Ivan
-
----
-
-## Recap - COOLED!
-
-Camp Coolmoves had another successful outing this past weekend. We took on one night at Bothe-Napa Valley State Park with Kula, who gave us a new use for our tent stakes.
-
-##### The Goodness
-* Campsites were very isolated from each other, and we never felt like we had to be quiet at night.
-* The facilities were super clean and nice, with toilet paper, running water, and there was even a shower.
-* Ali gave me a [Black Diamond Moji Color light](https://www.blackdiamondequipment.com/en_US/moji_color-BD620717WHITALL1.html#cgid=lighting&start=13) as a gift, and this was the first chance for us to use it in the wild. It was bright, with a great color, and we could easily hang it up inside our new Big Tent.
-* The weather was perfect: not too cold at night, Ali was able to sleep great, and it wasn’t difficult to get up in the morning.
-* Ali had the great idea to get a string of lights. They’re lightweight and bright. Great on the table to help keep things well lit!
-* Watermelon. Yum. 🍉
-
-##### Things Learned
-* We tried stopping by Calistoga on our way out at a winery called Tank Garage; they were packed! So we had to end up skipping that adventure.
-* So many mosquitoes! I arrived around 6pm, and about 30 minutes later, when Ali arrived, we were in Zika Town. We had a spray, but that seemed to last about 10 minutes until we’d need to re-spray. It made it extremely difficult to get the camp setup. Once we got the fire started, I think we were able to start smoking them away. So buggy! Need a better solution for this next time.
-* Kula is quite the suburban gal who likes paved roads and hates the outdoors.
-* We forgot to bring plates, but we were able to eat out of some aluminum trays we had. Oops.
-
-~~Bothe-Napa Valley SP~~ COOLED
 
 Ivan
