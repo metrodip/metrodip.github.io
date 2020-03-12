@@ -8,6 +8,7 @@ layout: coolmoves-post
 * Site: Live Oak #17
 * Checkin: 2pm
 * Checkout: 12pm
+* Previously camped: [May 2018](../../2018-05-05-mt-diablo)
 
 
 ##### Attendees

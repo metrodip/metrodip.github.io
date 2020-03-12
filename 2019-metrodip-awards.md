@@ -17,34 +17,46 @@ Congratulations to all of our amazing 2019 Metrodip Award winners!
 ## 2019 Beer of the Year
 **Coors Light**
 
-Runners up: There are other beers?
+##### Runners up
+* There are other beers?
 
 ## 2019 Hike of the Year
 **Bear Mountain**
 
-Runners up: Sibley, Coxcomb
+##### Runners up
+* Sibley
+* Coxcomb
 
 ## 2019 App of the Year
 [**Little Countdown**](https://littlecountdown.com)
 
-Runner up: [Little Memory](https://thelittlememory.com)
+##### Runners up
+* [Little Memory](https://thelittlememory.com)
 
 ## 2019 Meal of the Year
 **El Bruja** and **Phuket hotel food**
 
-Runners up: Whistler sushi, Fast Truck at Puerta Vallarta, Cafe Des Artistes, MUA; so many!
+##### Runners up (so many!)
+* Whistler sushi
+* Fast Truck at Puerta Vallarta
+* Cafe Des Artistes
+* MUA
 
 ## 2019 Coolmoves Camp of the Year
-**Joseph D. Grant**
+**[Joseph D. Grant](/coolmoves/2019-05-03-joseph-d-grant-park)**
 
-Runners up: Bodega Dunes, Bothe Napa
+##### Runners up
+* Bodega Dunes
+* Bothe Napa
 
 ## 2019 Run of the Year
 **Kaiser Half Marathon**
 
-Runner up: Canyon run
+##### Runners up
+* Canyon run
 
 ## 2019 Music show of the Year
 **THE SPINNERS** at Yoshi's
 
-Runners up: Chromeo at the Greek Theater
+##### Runners up
+* Chromeo at the Greek Theater

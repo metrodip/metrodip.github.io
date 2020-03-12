@@ -13,6 +13,8 @@ layout: coolmoves-home
   * June 12-14: [Pinnacles National Park](2020/06-12-pinnacles-national-park) (We're FULL!)
   * August 14-15: [Mt. Diablo](2020/08-14-mt-diablo)
 
+First time camping with Camp COOLMOVES? [Here's what to expect](first-timers).
+
 ***
 
 {% include_relative previous.md %}

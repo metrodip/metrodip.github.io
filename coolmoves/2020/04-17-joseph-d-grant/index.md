@@ -10,6 +10,7 @@ layout: coolmoves-post
 * Site: 18
 * Checkin: 3pm
 * Checkout: 1pm
+* Previously camped: [May 2019](../../2019-05-03-joseph-d-grant-park)
 
 ##### Attendees
 * Ali, Ivan, Bibo
