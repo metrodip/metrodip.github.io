@@ -17,6 +17,8 @@ Congratulations to all of our amazing 2019 Metrodip Award winners!
 ## 2019 Beer of the Year
 **Coors Light**
 
+![Coors Light](coorslight.jpeg)
+
 ##### Runners up
 * There are other beers?
 
