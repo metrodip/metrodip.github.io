@@ -1,5 +1,5 @@
 FROM alpine:latest
-RUN apk add --no-cache ruby-dev ruby-bigdecimal build-base zlib-dev
+RUN apk add --no-cache ruby-dev ruby-bigdecimal build-base zlib-dev exiftool
 
 RUN gem install --no-document bundler -v "~> 1.16.6"
 #RUN gem install --no-document github-pages
