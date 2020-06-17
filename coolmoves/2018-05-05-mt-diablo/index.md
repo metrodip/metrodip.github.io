@@ -16,7 +16,7 @@ Camp Coolmoves had another successful outing this past weekend. We took on the J
 
 * Campsite #17 is on a slope; well, at least the picnic area was. A few falls were the cost of a great view!
 * We added the word “enantiodromia” to our vocabulary.
-* Our "rival camp," The Racoons, stole our Trader Joe’s hot dogs! Grrrr!
+* Our "rival camp," The Raccoons, stole our Trader Joe’s hot dogs! Grrrr!
 * They also got into our fly trap's bait: we hope they were poisoned by it.
 
 A great trip!

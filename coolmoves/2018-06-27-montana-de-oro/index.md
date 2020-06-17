@@ -1,5 +1,5 @@
 ---
-title: "Montaña de Oro: June 29-July 1, 2018 [COOLED!]
+title: "Montaña de Oro: June 29-July 1, 2018 [COOLED!]"
 layout: coolmoves-post
 ---
 

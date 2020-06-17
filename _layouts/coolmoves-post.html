@@ -13,7 +13,7 @@ layout: default
     {% for image in site.static_files %}
         {% assign filename = image.path %}
         {% assign extension = image.path | split:"." | last | downcase %}
-        {% if filename contains page.dir and extension == "jpg" %}
+        {% if filename contains page.dir and extension == "jpg" or extension == "png" %}
             <a href="{{ site.baseurl }}{{ image.path }}"><img src="{{ site.baseurl }}{{ image.path }}" alt="image" /></a>
         {% endif %}
     {% endfor %}
