@@ -21,6 +21,7 @@ Celebration, Gratitude, Meaning, and FUN!
     * [Facebook](https://www.facebook.com/hashtag/adventuresofaliandivan)
 * [To Ali & Ivan's Video](https://www.dropbox.com/s/trp1428dawxugjt/To%20Ali%20%26%20Ivan%27s%20Wedding.mp4?dl=0): a little video we sent to guests before the wedding to help folks know that they're not driving their doom and also doubled as a reminder for the upcoming big day. No stop signs were illegally run in the making of this video.
 * [Ivan thinking about: Harvest](https://ivanthinking.net/thoughts/harvest/)
+* [Coordinated Bridge Feature](https://thecoordinatedbride.com/latest-weddings/a-california-wedding-at-riggers-wine-loft-ali-ivan/)
 
 
 ### Venue: [Riggers Wine Loft](https://www.riggersloftwine.com/)
