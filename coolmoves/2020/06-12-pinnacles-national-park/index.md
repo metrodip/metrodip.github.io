@@ -6,7 +6,7 @@ layout: coolmoves-post
 
 Belated but Cooled nonetheless!
 
-Our first Camp Coolmoves took us to Pinnacles National Park.  Though we didn’t see any of the famed California Condors, we saw other wildlife- quail and woodpeckers at the campsite, and a return visit from our nemesis from Camp Raccoon!  Luckily the Racs didn’t get our hot dogs this time- we’re wise to their human hand tricks- but they did crawl around underneath Jenn and Kuku’s tent looking for dog food in the middle of the night.  Not cool guys!!
+Our first Camp Coolmoves of 2020 took us to Pinnacles National Park.  Though we didn’t see any of the famed California Condors, we saw other wildlife- quail and woodpeckers at the campsite, and a return visit from our nemesis from Camp Raccoon!  Luckily the Racs didn’t get our hot dogs this time- we’re wise to their human hand tricks- but they did crawl around underneath Jenn and Kuku’s tent looking for dog food in the middle of the night.  Not cool guys!!
 
 ##### The Goodness
 - Inaugural launch of the Camp Coolmoves banner- designed and handcrafted by Estella.  
