@@ -22,4 +22,4 @@ RUN bundle install
 
 #COPY . $APP_HOME
 
-CMD bundle exec jekyll serve -H 0.0.0.0 --livereload --incremental --livereload-port 35729
+CMD bundle exec jekyll serve -H 0.0.0.0 --livereload --incremental --livereload-port 35729 --force_polling
