@@ -15,6 +15,8 @@ layout: coolmoves-home
 
 First time camping with Camp COOLMOVES? [Here's what to expect](first-timers).
 
+Beware of [The Racs](the-racs)!
+
 ***
 
 {% include_relative previous.md %}
