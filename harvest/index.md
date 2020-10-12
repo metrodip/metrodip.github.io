@@ -11,6 +11,9 @@ our harvest!
 ## Intentions
 Celebration, Gratitude, Meaning, and FUN!
 
+## Anniversary
+* [Year 1](/harvest/2020/)
+
 ## Media
 * [Official Wedding Photos](https://www.dropbox.com/sh/w8p41swmygbbihn/AADhlXiuOLSFZvxzLOt9zKOya?dl=0)
 * [Making Of/Thanks Video](https://www.dropbox.com/s/u3zndcnc9hpey4w/Harvest%20Thanks.mp4?dl=0): a behind the scenes view of the making of the wedding as well as some scenes from our honeymoon in Thailand.
