@@ -9,6 +9,7 @@
 			<title>{{ page.title }} - {{ site.title }}</title>
 		{% endif %}
 
+		<meta property="og:url" content="{{ site.url }}{{ page.url }}" />
 		{% if page.image %}
 		  <meta property="og:image" content="{{ site.url }}{{ page.image }}" />
 		{% endif %}

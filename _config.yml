@@ -68,7 +68,7 @@ title: "Metrodip" # Site name or title
 logo: "/assets/logo.svg" # Site logo
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: "I dip. You dip. We dip." # Site description and default description
-url: "https://www.metrodip.com" # Site url
+url: "https://metrodip.com" # Site url
 baseurl: ""
 lang: en-US
 
