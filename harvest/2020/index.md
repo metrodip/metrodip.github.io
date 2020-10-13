@@ -1,6 +1,7 @@
 ---
 title: "Harvest 2020 / Ali and Ivan 1 Year Wedding Anniversary, Oct 11, 2020"
 layout: page
+image: 01_johnny_donuts.jpeg
 ---
 
 On October 11th, 2020, Ali and I celebrated our first year anniversary of our [Harvest](/harvest/).

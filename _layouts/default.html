@@ -9,6 +9,10 @@
 			<title>{{ page.title }} - {{ site.title }}</title>
 		{% endif %}
 
+		{% if page.image %}
+		  <meta property="og:image" content="{{ page.image }}" />
+		{% endif %}
+
 		<link rel="stylesheet" href="{{ "/assets/styles.css" | relative_url }}">
 		
 		{% if site.favicon %}
