@@ -52,13 +52,13 @@ Congratulations to all of our amazing 2019 Metrodip Award winners!
 * Bothe Napa
 
 ## 2019 Run of the Year
-**Kaiser Half Marathon**
+[**Kaiser Half Marathon**](https://results.rmraces.live/kaiser-permanente/events/2019/kaiser-permanente-san-francisco-half-marathon-10k--5k/903/entrant?share=1)
 
 ##### Runners up
 * Canyon run
 
 ## 2019 Music show of the Year
-**THE SPINNERS** at Yoshi's
+[**THE SPINNERS** at Yoshi's](https://kblx.com/event/the-spinners-at-yoshis-oakland/)
 
 ##### Runners up
-* Chromeo at the Greek Theater
+* [Chromeo/Toro y Moi at the Greek Theater](http://www.thegreektheatreberkeley.com/events/chromeo-toro-y-moi-noname/)
