@@ -1,9 +1,7 @@
 source "https://rubygems.org"
 
-gem "github-pages", group: :jekyll_plugins
-gem "json"
-gem "webrick"
-gem "etc"
+ruby '~> 2.7.0'
 
+gem "jekyll", "~> 4.1.1"
 gem "jekyll-remote-theme"
 gem "garth-jekyll-theme"
