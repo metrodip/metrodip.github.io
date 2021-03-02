@@ -48,8 +48,6 @@ Congratulations to all our winners. You deserve a round of applause!
 ## 2020 Foodles of the Year
 [**El Gallo Negro**](https://elgallonegro.net/)
 
-**El Bruja** and **Phuket hotel food**
-
 ##### Runners up
 * Rusty Hinges Ranch
 * Pandemic Plantains
