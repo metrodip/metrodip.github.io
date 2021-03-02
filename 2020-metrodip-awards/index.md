@@ -55,7 +55,7 @@ Congratulations to all our winners. You deserve a round of applause!
 * Pandemic Plantains
 
 ## 2020 Coolmoves Camp of the Year
-**Pinnacles!**; the tip top of the top top!
+**[Pinnacles](/coolmoves/2020/06-12-pinnacles-national-park/)**; the tip top of the top top!
 
 ##### Runners up
 * None! We had to cancel all the others!
